@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6CqqxEAGQLX_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">СОНГОН ШАЛГАРУУЛАЛТАНД</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="СОНГОН_ШАЛГАРУУЛАЛТАНД_ORG">
+    <organization identifier="СОНГОН_ШАЛГАРУУЛАЛТАНД_ORG">
+      <title>СОНГОН ШАЛГАРУУЛАЛТАНД</title>
+      <item identifier="Push_to_Sheets_SCO" isvisible="true" identifierref="__6CqqxEAGQLX_course_id_RES">
+        <title>СОНГОН ШАЛГАРУУЛАЛТАНД</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6CqqxEAGQLX_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6gtUyLBykQs_DX314_DY314_CX240_CY179.png" />
+      <file href="story_content/zoomIcon.png" />
+      <file href="mobile/6IANFr2vPkr_DX747_DY222_CX747_CY222.png" />
+      <file href="mobile/6ENdRppfzwp_DX286_DY286_CX64_CY143.png" />
+      <file href="mobile/5iTrsuLfvUf_DX1920_DY1920_CX1370_CY849.png" />
+      <file href="story_content/report.html" />
+      <file href="mobile/6gtUyLBykQs_DX314_DY314_CX247_CY184.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6rIqRURIFHV.jpg" />
+      <file href="mobile/Shape6Rb241k4Niz.png" />
+      <file href="mobile/Slide6ZSuU7Hco82.jpg" />
+      <file href="mobile/Slide5lPEX3BqZLQ.jpg" />
+      <file href="mobile/Slide5nTUCwOAxRb.jpg" />
+      <file href="mobile/Slide68q8MTsJN61.jpg" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/6CgirY6oHpe.js" />
+      <file href="html5/data/js/6EFsQgxuV0G.js" />
+      <file href="html5/data/js/6qfXrMgsqlT.js" />
+      <file href="html5/data/js/6oKSV0k4oVc.js" />
+      <file href="html5/data/js/5vg6hrQA466.js" />
+      <file href="html5/data/js/61spyYrS4uZ.js" />
+      <file href="html5/data/js/67yncDyLFFM.js" />
+      <file href="html5/data/js/6H9b62CCmzN.js" />
+      <file href="html5/data/js/5jVhu2UK80V.js" />
+      <file href="html5/data/js/5wDODteQBxV.js" />
+      <file href="html5/data/js/6nvnYys3KSF.js" />
+      <file href="html5/data/js/6SNAAqiB7Qu.js" />
+      <file href="html5/data/js/5ris1nCuODp.js" />
+      <file href="html5/data/js/65HHgFJN8L4.js" />
+      <file href="html5/data/js/6JgQfJasT0k.js" />
+      <file href="html5/data/js/67d5aL5Vz6S.js" />
+      <file href="html5/data/js/5rEwuxtD8WW.js" />
+      <file href="html5/data/js/6PO3msrs3pR.js" />
+      <file href="html5/data/js/6YXzJAfWPqM.js" />
+      <file href="html5/data/js/5qMzYen5aDF.js" />
+      <file href="html5/data/js/64eCW4rRlpm.js" />
+      <file href="html5/data/js/6efEbwtwtSv.js" />
+      <file href="html5/data/js/5pkfMU3rFDa.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/LICENSE.txt" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
